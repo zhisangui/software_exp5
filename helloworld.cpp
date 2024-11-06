@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-	cout << "Hello,World!" << endl;
+	cout << "World,Hello!" << endl;
 	return 0;
 }
